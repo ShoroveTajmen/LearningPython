@@ -1,4 +1,4 @@
-num1 = 4
-num2 = 5
-num3 = int(4)+int(5)
+num1 = 7070
+num2 = 9996
+num3 = int(7070)+int(9996)
 print("output is:",num3)
